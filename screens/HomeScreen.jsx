@@ -17,7 +17,7 @@ const  HomeScreen = () => {
 
     return (
         <SafeAreaView>
-                <View className="bg-slate-5=800 h-20 relative flex justify-center items-center">
+                <View className="bg-slate-5=900 h-20 relative flex justify-center items-center">
                     <Image source={{uri: imageCity}} className="h-full w-full absolute" />
                     <Text className="text-5xl relative text-white font-bold">Stryi</Text>
                 </View>
